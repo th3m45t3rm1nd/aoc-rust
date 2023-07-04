@@ -1,5 +1,5 @@
 # ADVENT OF CODE 
-Learning **Rust** by Solving AOC2022
+Learning **Rust** by Solving [AOC2022](https://adventofcode.com/2022)
 
 - Day 1
     - [x] Completed  
