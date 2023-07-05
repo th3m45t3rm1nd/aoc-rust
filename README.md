@@ -13,3 +13,6 @@ Learning **Rust** by Solving [AOC2022](https://adventofcode.com/2022)
     - [x] Completed
     - Folder: [Day 3](./day3)
 
+- Day 4
+    - [x] Completed
+    - Folder: [Day 4](./day4)
